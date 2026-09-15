@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Noka Black';
+  src: url('https://storiboardclub.github.io/PLYfonts/Noka-Black.woff') format('woff');
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'KMR Melange Grotesk';
+  src: url('https://storiboardclub.github.io/PLYfonts/kmrmelangegrotesk-regular.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'KMR Melange Grotesk';
+  src: url('https://storiboardclub.github.io/PLYfonts/kmrmelangegrotesk-medium.woff') format('woff');
+  font-style: normal;
+  font-weight: 500;
+}
